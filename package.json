@@ -1,5 +1,5 @@
 {
-  "name": "sheet-updater",
+  "name": "sheet-updaters",
   "type": "module",
   "dependencies": {
     "googleapis": "^144.0.0",
