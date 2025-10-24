@@ -1,0 +1,11 @@
+{
+  "name": "sheet-updater",
+  "type": "module",
+  "dependencies": {
+    "googleapis": "^144.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
